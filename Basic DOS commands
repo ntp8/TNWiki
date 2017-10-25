@@ -1,1 +1,10 @@
 https://community.sophos.com/kb/en-us/13195
+
+--create a new file
+
+echo: >readme2.txt
+echo.>readme3.csv
+This is a way of getting cmd.exe's echo command to output a blank line. Other variants are "echo/" and "echo:".
+
+--	Put a comment in a batch file
+REM [comment ]
